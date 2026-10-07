@@ -1,0 +1,18 @@
+{
+  "name": "BeiYa Bead Brand Color Code Dataset",
+  "description": "Structured color codes for 9 perler/fuse bead brands plus a universal palette: color code, localized name, HEX and RGB values.",
+  "source": "https://beiyapd.com/color-data/",
+  "lastSynced": "2026-10-07",
+  "brands": [
+    { "id": "perler", "name": "Perler", "colors": 117, "csv": "perler.csv" },
+    { "id": "hama", "name": "Hama", "colors": 89, "csv": "hama.csv" },
+    { "id": "artkal", "name": "Artkal", "colors": 176, "csv": "artkal.csv" },
+    { "id": "artkal-c", "name": "Artkal C (Mini)", "colors": 174, "csv": "artkal-c.csv" },
+    { "id": "artkal-hard", "name": "Artkal Hard", "colors": 176, "csv": "artkal-hard.csv" },
+    { "id": "artkal-soft", "name": "Artkal Soft", "colors": 176, "csv": "artkal-soft.csv" },
+    { "id": "nabbi", "name": "Nabbi", "colors": 30, "csv": "nabbi.csv" },
+    { "id": "mard", "name": "MARD", "colors": 221, "csv": "mard.csv" },
+    { "id": "ikea", "name": "IKEA Pyssla", "colors": 18, "csv": "ikea.csv" },
+    { "id": "universal", "name": "Universal Palette", "colors": 72, "csv": "universal.csv" }
+  ]
+}
